@@ -1,4 +1,5 @@
-<h1>下载在Actions <a>https://github.com/hanbao233xD/OpenList/actions/runs/18930742376</a> B站审核我真求你了 </h1>
+<h1>下载在Actions B站审核我真求你了 <a href="https://github.com/hanbao233xD/OpenList/actions/runs/18930742376">点我直达</a> </h1>
+
 <div align="center">
   <img style="width: 128px; height: 128px;" src="https://raw.githubusercontent.com/OpenListTeam/Logo/main/logo.svg" alt="logo" />
 
